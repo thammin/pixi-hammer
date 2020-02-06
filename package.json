@@ -1,6 +1,6 @@
 {
   "name": "pixi-hammer",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "description": "Use Hammerjs with pixi",
   "repository": "thammin/pixi-hammer",
   "main": "index.js",
@@ -15,10 +15,11 @@
   "author": "Paul Young <thammin@live.co.uk> (https://github.com/thammin)",
   "license": "MIT",
   "dependencies": {
+    "@pixi/math": "^5.2.0",
     "hammerjs": "^2.0.8"
   },
   "devDependencies": {
     "budo": "^10.0.4",
-    "pixi.js": "^4.6.0"
+    "pixi.js": "^4.7.0"
   }
 }
